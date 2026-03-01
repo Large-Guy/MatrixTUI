@@ -1,0 +1,3 @@
+[submodule "MatrixClientLibrary"]
+	path = MatrixClientLibrary
+	url = https://github.com/Large-Guy/MatrixClientLibrary.git
